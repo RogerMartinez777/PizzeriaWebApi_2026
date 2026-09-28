@@ -1,0 +1,12 @@
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\bin\Debug\net8.0\PizzeriaRepository.deps.json
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\bin\Debug\net8.0\PizzeriaRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\bin\Debug\net8.0\PizzeriaRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\obj\Debug\net8.0\PizzeriaRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\obj\Debug\net8.0\PizzeriaRepository.AssemblyInfoInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\obj\Debug\net8.0\PizzeriaRepository.AssemblyInfo.cs
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\obj\Debug\net8.0\PizzeriaRepository.csproj.CoreCompileInputs.cache
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\obj\Debug\net8.0\PizzeriaRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\obj\Debug\net8.0\refint\PizzeriaRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\obj\Debug\net8.0\PizzeriaRepository.pdb
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\obj\Debug\net8.0\ref\PizzeriaRepository.dll
+C:\Users\djneo\OneDrive\Escritorio\Pizzeria2026\PizzeriaRepository\obj\Debug\net8.0\PizzeriaRepository.csproj.AssemblyReference.cache

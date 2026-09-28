@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6378F0-F6B2-7AED-9780-D842751AA2E5}|PizzeriaWebApi\\PizzeriaWebApi.csproj|c:\\users\\djneo\\onedrive\\escritorio\\pizzeria2026\\pizzeriawebapi\\controllers\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6378F0-F6B2-7AED-9780-D842751AA2E5}|PizzeriaWebApi\\PizzeriaWebApi.csproj|solutionrelative:pizzeriawebapi\\controllers\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|c:\\users\\djneo\\onedrive\\escritorio\\pizzeria2026\\pizzeriarepository\\data\\implementations\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|solutionrelative:pizzeriarepository\\data\\implementations\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|c:\\users\\djneo\\onedrive\\escritorio\\pizzeria2026\\pizzeriarepository\\data\\interfaces\\ipizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|solutionrelative:pizzeriarepository\\data\\interfaces\\ipizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6378F0-F6B2-7AED-9780-D842751AA2E5}|PizzeriaWebApi\\PizzeriaWebApi.csproj|c:\\users\\djneo\\onedrive\\escritorio\\pizzeria2026\\pizzeriawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD6378F0-F6B2-7AED-9780-D842751AA2E5}|PizzeriaWebApi\\PizzeriaWebApi.csproj|solutionrelative:pizzeriawebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|c:\\users\\djneo\\onedrive\\escritorio\\pizzeria2026\\pizzeriarepository\\domain\\ingredientepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|solutionrelative:pizzeriarepository\\domain\\ingredientepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|c:\\users\\djneo\\onedrive\\escritorio\\pizzeria2026\\pizzeriarepository\\domain\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|solutionrelative:pizzeriarepository\\domain\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|c:\\users\\djneo\\onedrive\\escritorio\\pizzeria2026\\pizzeriarepository\\data\\pizzeriadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|solutionrelative:pizzeriarepository\\data\\pizzeriadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD6378F0-F6B2-7AED-9780-D842751AA2E5}|PizzeriaWebApi\\PizzeriaWebApi.csproj|c:\\users\\djneo\\onedrive\\escritorio\\pizzeria2026\\pizzeriawebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD6378F0-F6B2-7AED-9780-D842751AA2E5}|PizzeriaWebApi\\PizzeriaWebApi.csproj|solutionrelative:pizzeriawebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|c:\\users\\djneo\\onedrive\\escritorio\\pizzeria2026\\pizzeriarepository\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{255AF0A5-77F0-B3C6-97CC-0ACBF80D208F}|PizzeriaRepository\\PizzeriaRepository.csproj|solutionrelative:pizzeriarepository\\services\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzasController.cs",
+              "DocumentMoniker": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaWebApi\\Controllers\\PizzasController.cs",
+              "RelativeDocumentMoniker": "PizzeriaWebApi\\Controllers\\PizzasController.cs",
+              "ToolTip": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaWebApi\\Controllers\\PizzasController.cs",
+              "RelativeToolTip": "PizzeriaWebApi\\Controllers\\PizzasController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAACzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T16:15:04.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaWebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "PizzeriaWebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaWebApi\\appsettings.json",
+              "RelativeToolTip": "PizzeriaWebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-21T15:49:22.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Data\\Implementations\\PizzaRepository.cs",
+              "RelativeDocumentMoniker": "PizzeriaRepository\\Data\\Implementations\\PizzaRepository.cs",
+              "ToolTip": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Data\\Implementations\\PizzaRepository.cs",
+              "RelativeToolTip": "PizzeriaRepository\\Data\\Implementations\\PizzaRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswC0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:35:51.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Data\\Interfaces\\IPizzaRepository.cs",
+              "RelativeDocumentMoniker": "PizzeriaRepository\\Data\\Interfaces\\IPizzaRepository.cs",
+              "ToolTip": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Data\\Interfaces\\IPizzaRepository.cs",
+              "RelativeToolTip": "PizzeriaRepository\\Data\\Interfaces\\IPizzaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:35:13.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PizzeriaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Data\\PizzeriaDbContext.cs",
+              "RelativeDocumentMoniker": "PizzeriaRepository\\Data\\PizzeriaDbContext.cs",
+              "ToolTip": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Data\\PizzeriaDbContext.cs",
+              "RelativeToolTip": "PizzeriaRepository\\Data\\PizzeriaDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:19:28.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Domain\\Pizza.cs",
+              "RelativeDocumentMoniker": "PizzeriaRepository\\Domain\\Pizza.cs",
+              "ToolTip": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Domain\\Pizza.cs",
+              "RelativeToolTip": "PizzeriaRepository\\Domain\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T14:04:26.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IngredientePizza.cs",
+              "DocumentMoniker": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Domain\\IngredientePizza.cs",
+              "RelativeDocumentMoniker": "PizzeriaRepository\\Domain\\IngredientePizza.cs",
+              "ToolTip": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Domain\\IngredientePizza.cs",
+              "RelativeToolTip": "PizzeriaRepository\\Domain\\IngredientePizza.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwCUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T14:04:19.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Services\\PizzaService.cs",
+              "RelativeDocumentMoniker": "PizzeriaRepository\\Services\\PizzaService.cs",
+              "ToolTip": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaRepository\\Services\\PizzaService.cs",
+              "RelativeToolTip": "PizzeriaRepository\\Services\\PizzaService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T17:03:52.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "PizzeriaWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\djneo\\OneDrive\\Escritorio\\Pizzeria2026\\PizzeriaWebApi\\Program.cs",
+              "RelativeToolTip": "PizzeriaWebApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAACvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T15:51:55.296Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
